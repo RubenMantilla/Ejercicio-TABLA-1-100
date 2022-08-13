@@ -1,0 +1,39 @@
+
+
+body{
+	background-color: rgb(246, 240, 232);
+	color: black;
+	height: 400px;
+	padding-top: 200px;
+}
+
+.table{
+	display: flex;
+	justify-content: center;
+	margin: 5px;
+	padding: 5px;
+}
+
+table{
+	border-collapse: collapse;
+	caption-side: top;
+}
+
+table td, th{
+	border: 1.2px solid black;
+	text-align: center;
+	width: 150px;
+	height: 18px;
+}
+
+#extreme{
+	background-color: rgb(244, 158, 60);
+}
+
+#unos{
+	background-color: rgb(67, 105, 199);
+}
+
+#dos{
+	background-color: rgb(111, 158, 223);
+}
